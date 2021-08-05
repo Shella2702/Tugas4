@@ -1,9 +1,9 @@
 //Soal No 1
 
-function onlineShop (pembeli,produk){
+function Toko_Online (pembeli,produk){
     return console.log("Terima kasih", pembeli, "telah membeli produk", produk);
 };
-onlineShop("Shella Batrisyia","Piring");
+Toko_Online("Shella Batrisyia","Piring");
 
 //Soal No 2 fahrenheit
 
